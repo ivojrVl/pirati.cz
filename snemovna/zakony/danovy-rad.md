@@ -356,8 +356,8 @@ zabudovány do pozměňovacího návrhu Ústavně právního výboru i do mého
 návrhu, a které mají omezit rizika případného zneužití ze strany
 státních orgánů:
 
--   Informace bude moci vyžadovat **pouze Generální finanční
-    > ředitelství** (GFŘ). Nebude docházet k tomu, že si každý finanční
+-   Informace bude moci vyžadovat **pouze Generální finanční ředitelství** (GFŘ).
+    > Nebude docházet k tomu, že si každý finanční
     > úřad bude zákon vykládat po svém a zahlcovat povinné svými
     > žádostmi (původně bylo navrhováno, aby žádost mohl podat každý
     > správce daně, nyní je výše uvedeném návrhu “ústřední kontaktní
